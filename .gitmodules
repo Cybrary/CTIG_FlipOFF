@@ -1,0 +1,15 @@
+[submodule "examples/gap-overwrite/examples/gap-overwrite/flipper-zero-airtag"]
+	path = examples/gap-overwrite/examples/gap-overwrite/flipper-zero-airtag
+	url = https://github.com/culturally/flipper-zero-airtag
+[submodule "examples/gap-overwrite/example/openhaystack"]
+	path = examples/gap-overwrite/example/openhaystack
+	url = https://github.com/AlexStrNik/flipperzero-firmware
+[submodule "examples/gap-overwrite/example/postive"]
+	path = examples/gap-overwrite/example/postive
+	url = https://github.com/positive-security/find-you
+[submodule "examples/gap-overwrite/example/scripts"]
+	path = examples/gap-overwrite/example/scripts
+	url = https://github.com/haxorthematrix/AirTag-tools
+[submodule "examples/gap-overwrite/example/STM32CubeWB"]
+	path = examples/gap-overwrite/example/STM32CubeWB
+	url = https://github.com/STMicroelectronics/STM32CubeWB
